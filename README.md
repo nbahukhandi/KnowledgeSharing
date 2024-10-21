@@ -1,0 +1,1 @@
+Dibia, V. (2023). LIDA: A Tool for Automatic Generation of Grammar-Agnostic Visualizations and Infographics using Large Language Models (Version 1.0.0) [Computer software]. https://doi.org/10.18653/v1/2023.acl-demo.11
